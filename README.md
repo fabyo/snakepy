@@ -1,4 +1,4 @@
-🐍 Snake PY ![Snake Preview](snake.png)
+🐍 Snake PY <img src="preview.png" width="200">
 
 Um clássico Snake desenvolvido em Python utilizando Pygame, com visual moderno, velocidade dinâmica e estrutura simples para estudo de lógica, colisão e desenvolvimento de jogos 2D.
 
