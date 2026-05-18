@@ -75,33 +75,21 @@ O jogo possui:
 ⚡ Velocidade Dinâmica
 
 A velocidade aumenta automaticamente conforme o jogador evolui:
-
+```python
 current_fps = min(
     INITIAL_FPS + (score * 0.5),
     MAX_FPS
 )
-
+```
 Isso cria uma progressão mais desafiadora e divertida.
-
+```python
 📂 Estrutura
 snake-py/
 │
 ├── snake.py
 ├── README.md
 └── assets/
-🔥 Próximas Melhorias
-Sons
-Partículas
-Ranking
-Banco SQLite
-Multiplayer
-IA automática
-Powerups
-Obstáculos
-Fullscreen
-Exportação EXE
-Shaders/OpenGL
-🛠️ Gerar Executável
+```
 
 Instale:
 
@@ -118,12 +106,10 @@ dist/snake.exe
 
 Este projeto foi criado para estudo e prática de:
 
-Programação em Python
-Desenvolvimento de jogos
-Lógica de programação
-Sistemas realtime
-Estruturas de dados
-Matemática espacial
-📄 Licença
+- Programação em Python
+- Desenvolvimento de jogos
+- Lógica de programação
+- Sistemas realtime
+- Estruturas de dados
+- Matemática espacial
 
-Projeto livre para estudos e modificações 🚀
