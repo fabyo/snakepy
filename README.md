@@ -65,11 +65,12 @@ Lógica de jogos
 ```
 
 O jogo possui:
-
+```python
 ✅ Colisão com parede
 ✅ Colisão com o próprio corpo
 ✅ Detecção de comida
 ✅ Controle espacial baseado em grid
+```
 
 ⚡ Velocidade Dinâmica
 
