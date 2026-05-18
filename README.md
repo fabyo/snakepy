@@ -24,7 +24,7 @@ Pygame
 
 Clone o projeto:
 
-git clone https://github.com/seuusuario/snake-py.git
+git clone https://github.com/fabyo/snakepy.git
 
 Entre na pasta:
 
