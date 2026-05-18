@@ -35,7 +35,8 @@ Instale as dependências:
 - pip install pygame
 - ▶️ Executando
 - python snake.py
-  
+
+```python
 🎮 Controles
 Tecla	Ação
 W / ↑	Mover para cima
@@ -43,6 +44,7 @@ S / ↓	Mover para baixo
 A / ←	Mover para esquerda
 D / →	Mover para direita
 R	Reiniciar jogo
+```
 
 🧠 Conceitos Aprendidos
 
