@@ -49,7 +49,7 @@ R	Reiniciar jogo
 🧠 Conceitos Aprendidos
 
 Este projeto ajuda a estudar:
-
+```python
 Game Loop
 Renderização 2D
 Sistema de colisão
@@ -62,6 +62,7 @@ Manipulação de listas
 Estados da aplicação
 Lógica de jogos
 💥 Sistema de Colisão
+```
 
 O jogo possui:
 
